@@ -3,3 +3,4 @@ const objectcreate={
     name:"Tanya",
     Address:"Kakori"
 }
+console.log(objectcreate);
